@@ -13,7 +13,7 @@ class MergeConflicts
   end
 
   def add
-    
+    "Hello this is a conflict"
   end
 
   def subtract
